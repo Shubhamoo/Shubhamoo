@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Shubhamoo
+- 👋 Hi, I’m Shubham Kumar
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on instagram
+- 🌱 I’m currently learning C++ and Python
+- 💞️ I’m looking now job in Automation field
 - 📫 How to reach me on instagram (@allcodeshere)
 
 <!---
